@@ -1,7 +1,7 @@
 import introJs from 'intro.js';
 import PropTypes from 'prop-types';
 import { Component, isValidElement } from 'react';
-import { renderToStaticMarkup } from 'react-dom/server';
+import { renderToStaticMarkup } from 'react-dom/server.js';
 
 import * as introJsPropTypes from '../../helpers/proptypes';
 import * as introJsDefaultProps from '../../helpers/defaultProps';

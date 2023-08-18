@@ -1,5 +1,5 @@
 {
-  "name": "intro.js-react",
+  "name": "@hashbranch/intro.js-react",
   "version": "1.0.0",
   "description": "Intro.js React Wrapper",
   "main": "dist/cjs/index.js",
